@@ -21,3 +21,6 @@ Create .streamlitfolder and \secrets.toml file with following configuration data
 - add apl for vendor Marianos on SKU MRNO-0003 for Footwear
 - show apl for vendor Marianos
 - show apl for category Footwear
+
+## Run locally
+- streamlit run main.py
